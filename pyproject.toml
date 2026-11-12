@@ -1,0 +1,7 @@
+[project]
+name = "market-data-reconciliation-hub"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[project.scripts]
+market-data-reconciliation-hub = "market_data_reconciliation.cli:main"

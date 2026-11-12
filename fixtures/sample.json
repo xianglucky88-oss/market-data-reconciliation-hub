@@ -1,0 +1,5 @@
+[
+  {"event_id":"m-1","provider":"alpha","instrument_id":"ABC","as_of":"2026-01-02T10:00:00Z","event_type":"quote","price":101.0,"currency":"USD","version":1},
+  {"event_id":"m-2","provider":"beta","instrument_id":"ABC","as_of":"2026-01-02T10:00:00Z","event_type":"quote","price":101.4,"currency":"USD","version":1},
+  {"event_id":"corp-1","provider":"alpha","instrument_id":"ABC","as_of":"2026-01-03T00:00:00Z","event_type":"split","price":2.0,"currency":"RATIO","version":1}
+]
